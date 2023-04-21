@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\bin\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.exe
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\bin\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.deps.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\bin\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.runtimeconfig.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\bin\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\bin\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\obj\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\obj\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\obj\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\obj\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.AssemblyInfo.cs
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\obj\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\obj\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\obj\Debug\net6.0\refint\Vykreslení_pravouhleho_trojuhelniku.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\obj\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\obj\Debug\net6.0\Vykreslení_pravouhleho_trojuhelniku.genruntimeconfig.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykreslení_pravouhleho_trojuhelniku\obj\Debug\net6.0\ref\Vykreslení_pravouhleho_trojuhelniku.dll

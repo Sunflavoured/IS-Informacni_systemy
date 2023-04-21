@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Generator_max_min/1.0.0": {
+        "runtime": {
+          "Generator_max_min.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generator_max_min/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

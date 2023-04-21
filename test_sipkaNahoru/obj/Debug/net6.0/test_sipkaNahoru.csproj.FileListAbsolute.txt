@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\bin\Debug\net6.0\test_sipkaNahoru.exe
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\bin\Debug\net6.0\test_sipkaNahoru.deps.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\bin\Debug\net6.0\test_sipkaNahoru.runtimeconfig.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\bin\Debug\net6.0\test_sipkaNahoru.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\bin\Debug\net6.0\test_sipkaNahoru.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\obj\Debug\net6.0\test_sipkaNahoru.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\obj\Debug\net6.0\test_sipkaNahoru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\obj\Debug\net6.0\test_sipkaNahoru.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\obj\Debug\net6.0\test_sipkaNahoru.AssemblyInfo.cs
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\obj\Debug\net6.0\test_sipkaNahoru.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\obj\Debug\net6.0\test_sipkaNahoru.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\obj\Debug\net6.0\refint\test_sipkaNahoru.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\obj\Debug\net6.0\test_sipkaNahoru.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\obj\Debug\net6.0\test_sipkaNahoru.genruntimeconfig.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\test_sipkaNahoru\obj\Debug\net6.0\ref\test_sipkaNahoru.dll

@@ -1,0 +1,23 @@
+int rows;
+Console.WriteLine("Zadejte počet řádků:");
+while (!int.TryParse(Console.ReadLine(), out rows))
+{
+    Console.WriteLine("Zadejte znovu");
+}
+int cislo = 1, odsazeni, i, j;
+Console.WriteLine("Pacalův trojuhelník");
+for (i = 0; i < rows; i++)
+{
+    for (odsazeni = 1; odsazeni <= rows - i; odsazeni++)
+        Console.Write(" ");
+    for (j = 0; j <= i; j++)
+    {
+        if (j == 0 || i == 0)
+            cislo = 1;
+        else
+            cislo = cislo * (i - j + 1) / j;
+        Console.Write(cislo + " ");
+    }
+    Console.WriteLine();
+}
+Console.ReadLine();

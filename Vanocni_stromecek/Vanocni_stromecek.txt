@@ -1,0 +1,204 @@
+using System;
+
+class EriMath
+{
+    public static int obvodObdelniku(int a, int b)
+    {
+        return 2 * a + 2 * b;
+    }
+
+    public static int obvodCtverce(int a)
+    {
+        return 4 * a;
+    }
+
+    public static int obsahCtverce(int a)
+    {
+        return a * a;
+    }
+
+    public static double obvodTrojuhelniku(int a, int b, double c)
+    {
+        return a + b + c;
+    }
+
+    public static double preponaPravouhlehoTrojuhelniku(int a, int b)
+    {
+        return Math.Sqrt(a * a + b * b);
+    }
+
+    public static int soucetCifer(int number)
+    {
+        int zbytek = 0;
+        int soucet = 0;
+        while (number >= 10)
+        {
+            zbytek = number % 10;
+            number = (number - zbytek) / 10;
+            soucet += zbytek;
+        }
+        soucet += number;
+        return soucet;
+    }
+
+    public static int soucinCifer(int number)
+    {
+        int soucin = 1;
+        int zbytek = 0;
+        while (number >= 10)
+        {
+            zbytek = number % 10;
+            number = (number - zbytek) / 10;
+            soucin = soucin * zbytek;
+        }
+        soucin *= number;
+        return soucin;
+    }
+}
+class IOlib
+{
+    public static int inputNumber(string request, string error)
+    {
+        int number;
+        Console.WriteLine(request);
+        while (!int.TryParse(Console.ReadLine(), out number))
+        {
+            Console.WriteLine(error);
+        }
+        return number;
+    }
+
+    //Vykreslení pravouhlého trojuhelníku
+    public static void print_triangle(int hight)
+    {
+        for (int i = 0; i < hight; i++)
+        {
+            for (int j = 0; j < i; j++)
+            {
+                Console.Write(" *");
+            }
+            Console.WriteLine(" *");
+        }
+        Console.WriteLine();
+    }
+
+    //vykreslení rovnoramenného trojuhelníku
+    public static void print_rovnorameny(int hight, int shift)
+    {
+        for (int i = 0; i < hight; i++)
+        {
+            for (int j = hight + shift - 1; j > i; j--)
+            {
+                Console.Write(" ");
+            }
+            for (int k = 0; k < 2 * i + 1; k++)
+            {
+                Console.Write("*");
+            }
+            Console.WriteLine();
+        }
+    }
+
+    public static void print_n_chars(int n, string s)
+    {
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write(s);
+        }
+    }
+}
+
+class Program
+{
+    public static int[] fillArrayWithRandomInt(int len, int min, int max)
+    {
+        Random nahodne = new Random();
+        int[] pole = new int[len];
+        for (int i = 0; i < len; i++)
+        {
+            pole[i] = nahodne.Next(min, max + 1);
+        }
+        return pole;
+    }
+
+    public static int sum_array(int[] arr, int len)
+    {
+        int suma = 0;
+        for (int i = 0; i < len; i++)
+        {
+            suma = suma + arr[i];
+        }
+        return suma;
+    }
+
+    public static void print_array(int[] arr, int len)
+    {
+        for (int i = 0; i < len; i++)
+        {
+            Console.Write("{0}; ", arr[i]);
+
+        }
+    }
+
+
+    public static void Main(string[] args)
+    {
+        string opakovani = "a";
+        while (opakovani == "a")
+        {
+            int lenght = IOlib.inputNumber(
+                "zadejte počet generovaných čísel:", "Zadejte číslo znovu");
+
+            int dolniMez = IOlib.inputNumber(
+                "zadejte dolní mez generovaných čísel:", "Zadejte číslo znovu");
+
+            int horniMez = IOlib.inputNumber(
+                "zadejte horní mez generovaných čísel:", "Zadejte číslo znovu");
+
+            Console.Write("Zadali jste hodnoty: \n" +
+                "počet generovaných čísel: {0} \n" +
+                "dolní mez: {1} \n" +
+                "horní mez {2} \n",
+                lenght, dolniMez, horniMez);
+
+            int[] pole = fillArrayWithRandomInt(lenght, dolniMez, horniMez);
+            Console.WriteLine("\nNáhodná čísla: ");
+            print_array(pole, lenght);
+            int suma = sum_array(pole, lenght);
+
+            Console.WriteLine("\nSuma: {0}", suma);
+            int prumer = suma / lenght;
+            Console.WriteLine("Průměr čísel: {0}", prumer);
+            int zbytekPoDeleni = suma % lenght;
+            Console.WriteLine("zbytek po děleni souctu: {0} ", zbytekPoDeleni);
+
+            //vyska stromecku(pocet trojuhelniku)= prumer
+            //vyska kmenu prumer/2
+
+            int pulkaPrumeru = prumer / 2;
+            int trunk_width = 5;
+
+            for (int i = 0; i < prumer; i++)
+            {
+                IOlib.print_rovnorameny(i + 1, prumer - i -1);
+            }
+            int tree_size = prumer;
+            for (int i = 0; i < pulkaPrumeru; i++)
+            {
+                for (int k = 0; k < tree_size - trunk_width / 2 - 1; k++)
+                {
+                    Console.Write(" ");
+                }
+
+                for (int j = 0; j < trunk_width; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("pro opakovani = a");
+            opakovani = Console.ReadLine();
+        }
+    }
+}

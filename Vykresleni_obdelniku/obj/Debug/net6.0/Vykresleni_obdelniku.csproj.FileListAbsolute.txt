@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\obj\Debug\net6.0\Vykresleni_obdelniku.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\obj\Debug\net6.0\Vykresleni_obdelniku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\obj\Debug\net6.0\Vykresleni_obdelniku.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\obj\Debug\net6.0\Vykresleni_obdelniku.AssemblyInfo.cs
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\obj\Debug\net6.0\Vykresleni_obdelniku.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\bin\Debug\net6.0\Vykresleni_obdelniku.exe
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\bin\Debug\net6.0\Vykresleni_obdelniku.deps.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\bin\Debug\net6.0\Vykresleni_obdelniku.runtimeconfig.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\bin\Debug\net6.0\Vykresleni_obdelniku.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\bin\Debug\net6.0\Vykresleni_obdelniku.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\obj\Debug\net6.0\Vykresleni_obdelniku.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\obj\Debug\net6.0\refint\Vykresleni_obdelniku.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\obj\Debug\net6.0\Vykresleni_obdelniku.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\obj\Debug\net6.0\Vykresleni_obdelniku.genruntimeconfig.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vykresleni_obdelniku\obj\Debug\net6.0\ref\Vykresleni_obdelniku.dll

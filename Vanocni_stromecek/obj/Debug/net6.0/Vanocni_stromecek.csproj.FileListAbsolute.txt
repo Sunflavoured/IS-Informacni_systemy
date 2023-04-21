@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\bin\Debug\net6.0\Vanocni_stromecek.exe
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\bin\Debug\net6.0\Vanocni_stromecek.deps.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\bin\Debug\net6.0\Vanocni_stromecek.runtimeconfig.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\bin\Debug\net6.0\Vanocni_stromecek.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\bin\Debug\net6.0\Vanocni_stromecek.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\obj\Debug\net6.0\Vanocni_stromecek.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\obj\Debug\net6.0\Vanocni_stromecek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\obj\Debug\net6.0\Vanocni_stromecek.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\obj\Debug\net6.0\Vanocni_stromecek.AssemblyInfo.cs
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\obj\Debug\net6.0\Vanocni_stromecek.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\obj\Debug\net6.0\Vanocni_stromecek.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\obj\Debug\net6.0\refint\Vanocni_stromecek.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\obj\Debug\net6.0\Vanocni_stromecek.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\obj\Debug\net6.0\Vanocni_stromecek.genruntimeconfig.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Vanocni_stromecek\obj\Debug\net6.0\ref\Vanocni_stromecek.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "zapoctak_test/1.0.0": {
+        "runtime": {
+          "zapoctak_test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zapoctak_test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\bin\Debug\net6.0\zapoctak_test.exe
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\bin\Debug\net6.0\zapoctak_test.deps.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\bin\Debug\net6.0\zapoctak_test.runtimeconfig.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\bin\Debug\net6.0\zapoctak_test.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\bin\Debug\net6.0\zapoctak_test.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\obj\Debug\net6.0\zapoctak_test.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\obj\Debug\net6.0\zapoctak_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\obj\Debug\net6.0\zapoctak_test.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\obj\Debug\net6.0\zapoctak_test.AssemblyInfo.cs
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\obj\Debug\net6.0\zapoctak_test.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\obj\Debug\net6.0\zapoctak_test.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\obj\Debug\net6.0\refint\zapoctak_test.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\obj\Debug\net6.0\zapoctak_test.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\obj\Debug\net6.0\zapoctak_test.genruntimeconfig.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\zapoctak_test\obj\Debug\net6.0\ref\zapoctak_test.dll

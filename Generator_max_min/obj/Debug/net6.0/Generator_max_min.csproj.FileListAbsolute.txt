@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\bin\Debug\net6.0\Generator_max_min.exe
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\bin\Debug\net6.0\Generator_max_min.deps.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\bin\Debug\net6.0\Generator_max_min.runtimeconfig.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\bin\Debug\net6.0\Generator_max_min.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\bin\Debug\net6.0\Generator_max_min.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\obj\Debug\net6.0\Generator_max_min.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\obj\Debug\net6.0\Generator_max_min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\obj\Debug\net6.0\Generator_max_min.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\obj\Debug\net6.0\Generator_max_min.AssemblyInfo.cs
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\obj\Debug\net6.0\Generator_max_min.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\obj\Debug\net6.0\Generator_max_min.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\obj\Debug\net6.0\refint\Generator_max_min.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\obj\Debug\net6.0\Generator_max_min.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\obj\Debug\net6.0\Generator_max_min.genruntimeconfig.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Generator_max_min\obj\Debug\net6.0\ref\Generator_max_min.dll

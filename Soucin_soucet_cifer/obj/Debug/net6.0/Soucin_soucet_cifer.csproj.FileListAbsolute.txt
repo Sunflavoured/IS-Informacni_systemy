@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\bin\Debug\net6.0\Soucin_soucet_cifer.exe
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\bin\Debug\net6.0\Soucin_soucet_cifer.deps.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\bin\Debug\net6.0\Soucin_soucet_cifer.runtimeconfig.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\bin\Debug\net6.0\Soucin_soucet_cifer.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\bin\Debug\net6.0\Soucin_soucet_cifer.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\obj\Debug\net6.0\Soucin_soucet_cifer.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\obj\Debug\net6.0\Soucin_soucet_cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\obj\Debug\net6.0\Soucin_soucet_cifer.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\obj\Debug\net6.0\Soucin_soucet_cifer.AssemblyInfo.cs
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\obj\Debug\net6.0\Soucin_soucet_cifer.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\obj\Debug\net6.0\Soucin_soucet_cifer.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\obj\Debug\net6.0\refint\Soucin_soucet_cifer.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\obj\Debug\net6.0\Soucin_soucet_cifer.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\obj\Debug\net6.0\Soucin_soucet_cifer.genruntimeconfig.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Soucin_soucet_cifer\obj\Debug\net6.0\ref\Soucin_soucet_cifer.dll

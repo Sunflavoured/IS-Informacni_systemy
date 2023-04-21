@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Analyza_textu/1.0.0": {
+        "runtime": {
+          "Analyza_textu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analyza_textu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

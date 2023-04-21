@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\bin\Debug\net6.0\vykresleni_obrazcu.exe
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\bin\Debug\net6.0\vykresleni_obrazcu.deps.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\bin\Debug\net6.0\vykresleni_obrazcu.runtimeconfig.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\bin\Debug\net6.0\vykresleni_obrazcu.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\bin\Debug\net6.0\vykresleni_obrazcu.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\obj\Debug\net6.0\vykresleni_obrazcu.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\obj\Debug\net6.0\vykresleni_obrazcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\obj\Debug\net6.0\vykresleni_obrazcu.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\obj\Debug\net6.0\vykresleni_obrazcu.AssemblyInfo.cs
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\obj\Debug\net6.0\vykresleni_obrazcu.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\obj\Debug\net6.0\vykresleni_obrazcu.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\obj\Debug\net6.0\refint\vykresleni_obrazcu.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\obj\Debug\net6.0\vykresleni_obrazcu.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\obj\Debug\net6.0\vykresleni_obrazcu.genruntimeconfig.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\vykresleni_obrazcu\obj\Debug\net6.0\ref\vykresleni_obrazcu.dll

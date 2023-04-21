@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\bin\Debug\net6.0\Analyza_textu.exe
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\bin\Debug\net6.0\Analyza_textu.deps.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\bin\Debug\net6.0\Analyza_textu.runtimeconfig.json
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\bin\Debug\net6.0\Analyza_textu.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\bin\Debug\net6.0\Analyza_textu.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\obj\Debug\net6.0\Analyza_textu.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\obj\Debug\net6.0\Analyza_textu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\obj\Debug\net6.0\Analyza_textu.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\obj\Debug\net6.0\Analyza_textu.AssemblyInfo.cs
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\obj\Debug\net6.0\Analyza_textu.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\obj\Debug\net6.0\Analyza_textu.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\obj\Debug\net6.0\refint\Analyza_textu.dll
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\obj\Debug\net6.0\Analyza_textu.pdb
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\obj\Debug\net6.0\Analyza_textu.genruntimeconfig.cache
+C:\Users\Erika\Desktop\ŠKOLA\Informační management\IS_priprava_test\Analyza_textu\obj\Debug\net6.0\ref\Analyza_textu.dll
